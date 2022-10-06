@@ -2,7 +2,7 @@
 
 >git clone < repo >
 
-> npm i or npm insatll 
+> npm i or npm install 
 
 run the server
 > npm run dev
